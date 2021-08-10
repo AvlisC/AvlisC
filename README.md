@@ -1,2 +1,4 @@
 - Hi, I’m Avlis
 - I’m currently learning about Web Development
+- In search of improve my dev skills
+- Open to tips and critics.
