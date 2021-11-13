@@ -1,4 +1,0 @@
-- Hi, I’m <strong>Cleyton</strong>
-- I’m currently learning about Web Development
-- In search of improve my dev skills
-- Open to tips and critics.
