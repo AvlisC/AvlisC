@@ -7,7 +7,7 @@
 <hr size="10" width="full"
 <p>I have experience in software development, always looking forward to improving my knowledge in this field and staying up-to-date with new technologies. I am easy to work with in squads, collaborative, open to communication, and thrive in teamwork. I adapt easily to find solutions when a project requires it, and I have no difficulties learning about new tools, technologies, or anything else that is necessary. I have no personal restrictions when it comes to admitting mistakes or receiving criticism, as I view these situations as opportunities for growth and improvement.
 <p></p>
-Working currently as Software Developer at ModalGR:
+Working currently as Software Developer at Mosten:
 <p></p>
  - At back-End I already created API's Rest with .net core/.net framework, consumption of services WCF, using SOLID concepts, Cleancode, CQRS, knowledge about sql queries/scripts using several data bases as PostGres, MySQL and SQLServer.
  <p></p>
