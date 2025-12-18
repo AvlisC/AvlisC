@@ -1,22 +1,95 @@
-## Hi, my name is Cleyton.
-- FullStack.
-- Software Developer
-- Tools and programming languages that I've used:<p></p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40"/>             
+# Hi, I'm Cleyton Silva 👋
 
-<hr size="10" width="full"
-<p>I have experience in software development, always looking forward to improving my knowledge in this field and staying up-to-date with new technologies. I am easy to work with in squads, collaborative, open to communication, and thrive in teamwork. I adapt easily to find solutions when a project requires it, and I have no difficulties learning about new tools, technologies, or anything else that is necessary. I have no personal restrictions when it comes to admitting mistakes or receiving criticism, as I view these situations as opportunities for growth and improvement.
-<p></p>
-Working currently as Software Developer at Mosten:
-<p></p>
- - At back-End I already created API's Rest with .net core/.net framework, consumption of services WCF, using SOLID concepts, Cleancode, CQRS, knowledge about sql queries/scripts using several data bases as PostGres, MySQL and SQLServer.
- <p></p>
-- At front-end I did implementations of functions, user interfaces and api consumption. Technologies that I've used: NodeJs, AngularJS, TypeScript, ReactJS, CSS, Sass, Material, NextJS.
-<p></p>
-- Currently I'm developing mobile app's using React Native and Expo SDK, knowing how to implement push notifications, local authentication (biometric and facialId), OTA updates, builds, deployment at app/ios stores.</p>
-<hr size="10" width="full"
+🚀 **Software Engineer | Full Stack | Front-end & Mobile Developer**
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://www.linkedin.com/in/cleyton-silva-6638b8216/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:cleyton.avlis@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cleyton.avlis@gmail.com" /></a>
-  </a> <a href="https://github.com/AvlisC" alt="github" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white"></a>
+Sou desenvolvedor de software com forte atuação em **Front-end, Mobile e Arquitetura**, focado em criar soluções escaláveis, bem estruturadas e com ótima experiência para o usuário.
+
+Tenho facilidade em atuar em **squads multidisciplinares**, colaborar com diferentes perfis e aprender rapidamente novas tecnologias quando o projeto exige. Acredito em **melhoria contínua**, feedback constante e uso de boas práticas como base para produtos de qualidade.
+
+---
+
+## 🧠 Sobre mim
+
+* 💻 Atuação Full Stack com foco em **Front-end, Mobile e Arquitetura**
+* 🧩 Experiência com **sistemas complexos, APIs, aplicações offline-first e tempo real**
+* 🎯 Forte preocupação com **qualidade de código, performance e experiência do usuário**
+* 🤝 Comunicação clara, abertura a feedbacks e mentalidade de crescimento
+* 🤖 Interesse ativo em **uso de IA para acelerar desenvolvimento e criação de produtos**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Front-end
+
+* React / Next.js
+* Angular
+* TypeScript / JavaScript
+* Tailwind CSS / Sass / CSS
+* Radix UI / Material UI / Shadcn UI
+
+### Mobile
+
+* React Native
+* Expo SDK
+* Push Notifications
+* OTA Updates
+* Publicação na App Store e Google Play
+
+### Back-end
+
+* Node.js
+* .NET / .NET Core
+* REST APIs
+* Clean Code / SOLID / CQRS
+
+### Banco de Dados
+
+* PostgreSQL
+* MySQL
+* SQL Server
+* IndexedDB
+* WatermelonDB
+
+### Infra & DevOps
+
+* Docker
+* Azure
+* AWS
+* Git / GitHub / Gitlab / Gitbucket
+* CI/CD
+
+---
+
+## 🧩 Experiência Profissional
+
+**Software Developer**
+
+* Desenvolvimento de APIs REST com .NET e Node.js
+* Criação de aplicações web e mobile escaláveis
+* Integração com múltiplos bancos de dados
+* Arquitetura front-end e mobile focada em performance
+* Implementação de funcionalidades offline e sincronização
+
+---
+
+## 🎮 Projetos em Destaque
+
+### 🕹️ Motiva Game Center
+
+Plataforma de gamificação corporativa focada em **engajamento saudável, reconhecimento e evolução profissional**, utilizando:
+
+* React + Tailwind + Radix
+* Node.js
+* WebSockets (tempo real)
+* Offline-first (IndexedDB + WatermelonDB)
+* Conceitos de XP, ranking, badges, passe mensal e recompensas
+
+> Projeto criado também como experimento prático de **uso de IA na construção de produtos do zero**.
+
+---
+
+## 📫 Vamos conversar?
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/cleyton-silva-6-638b8216/)
 
